@@ -1,5 +1,5 @@
 package org.example.monitorlock;
-
+/*this way we do not need additional CounterThread class directly we can call runnable and do our job*/
 public class MonitorLockModernWithLamda {
 
     public static void main(String[] args) {
