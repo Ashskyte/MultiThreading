@@ -1,4 +1,4 @@
-package org.example.monitorlock;
+package org.example.synchronization.monitorlock;
 
 //this is the class which will consume our resource and call their methods here
 public class CounterThread extends Thread {

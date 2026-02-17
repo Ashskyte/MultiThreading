@@ -1,4 +1,4 @@
-package org.example.monitorlock;
+package org.example.synchronization.monitorlock;
 /*this way we do not need additional CounterThread class directly we can call runnable and do our job*/
 public class MonitorLockModernWithLamda {
 

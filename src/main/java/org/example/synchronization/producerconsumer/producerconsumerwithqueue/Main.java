@@ -1,4 +1,4 @@
-package org.example.producerconsumer.producerconsumerwithqueue;
+package org.example.synchronization.producerconsumer.producerconsumerwithqueue;
 
 public class Main {
     public static void main(String[] args) {

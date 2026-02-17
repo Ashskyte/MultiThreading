@@ -1,4 +1,4 @@
-package org.example.monitorlock;
+package org.example.synchronization.monitorlock;
 
 //this resource will be shared between different threads to hold monitor lock
 public class CounterResource {

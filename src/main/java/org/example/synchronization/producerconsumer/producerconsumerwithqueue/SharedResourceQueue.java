@@ -1,4 +1,4 @@
-package org.example.producerconsumer.producerconsumerwithqueue;
+package org.example.synchronization.producerconsumer.producerconsumerwithqueue;
 
 import java.util.LinkedList;
 import java.util.Queue;

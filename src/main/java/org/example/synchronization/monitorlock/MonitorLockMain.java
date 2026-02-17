@@ -1,4 +1,4 @@
-package org.example.monitorlock;
+package org.example.synchronization.monitorlock;
 
 public class MonitorLockMain {
 

@@ -1,4 +1,4 @@
-package org.example.producerconsumer;
+package org.example.synchronization.producerconsumer;
 
 public class SharedResource {
     boolean isItemAvailable = false;

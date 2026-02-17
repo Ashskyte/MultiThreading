@@ -1,4 +1,4 @@
-package org.example.producerconsumer;
+package org.example.synchronization.producerconsumer;
 
 public class ProducerThread implements Runnable{
     private SharedResource sharedResource;
